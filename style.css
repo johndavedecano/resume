@@ -15,6 +15,20 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 
 .clear {clear: both;}
 
+article {
+	margin-bottom: 25px;
+}
+
+a {
+	color :#1879BD;
+	text-decoration: none;
+}
+
+li {
+	margin-bottom: 10px;
+	margin-left:10px;
+}
+
 p {
 	font-size: 1em;
 	line-height: 1.4em;
@@ -31,7 +45,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
+	border-bottom: 2px solid #1879BD;
 	background: #ededed;
 }
 
@@ -95,7 +109,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #cf8a05;
+	color: #1879BD;
 }
 
 
@@ -126,7 +140,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #cf8a05;
+	color: #1879BD;
 }
 
 .sectionContent h2 {
